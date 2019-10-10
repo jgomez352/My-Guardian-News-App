@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_tittle">
+
+    <!--Filter to what types of news-->
+    <ListPreference
+        android:defaultValue="@string/settings_filter_to_default"
+        android:entries="@array/settings_filter_to_label"
+        android:entryValues="@array/settings_filter_to_values"
+        android:key="@string/settings_filter_to_key"
+        android:title="@string/settings_filter_to_label"
+        />
+
+    <!--Sort by oldest or newest-->
+    <ListPreference
+        android:defaultValue="@string/settings_sort_by_default"
+        android:entries="@array/settings_sort_by_label"
+        android:entryValues="@array/settings_sort_by_values"
+        android:key="@string/settings_sort_by_key"
+        android:title="@string/settings_sort_by_label"
+        />
+
+
+
+</PreferenceScreen>

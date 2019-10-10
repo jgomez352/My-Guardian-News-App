@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3C3C3E</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#01FFE8</color>
+
+
+    <color name="textColorArticleDetails">#B4BAC0</color>
+    <color name="textColorHeadline">#000000</color>
+
+    <color name="politicsColor">#FF0000</color>
+    <color name="technologyColor">#0022F9</color>
+    <color name="newsColor">#079341</color>
+    <color name="otherColor">#6C10B4</color>
+</resources>

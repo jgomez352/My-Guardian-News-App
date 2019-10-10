@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Jose\'s Guardian News App</string>
+    <string name="politcs">Politics</string>
+    <string name="politics_initial">P</string>
+    <string name="technology">Tech</string>
+    <string name="technology_initial">T</string>
+    <string name="news">News</string>
+    <string name="news_initial">N</string>
+    <string name="other">Other</string>
+    <string name="other_initials">O</string>
+    <string name="noInternet">No Internet Connection!</string>
+    <string name="NoNews">No news articles found!</string>
+
+    <!--  Items below is for the setting part of the app -->
+        <string name="settings_menu_item">Settings</string>
+        <string name="settings_tittle">Guardian News Settings</string>
+
+        <!--Strings for filter_to setting (Politics, Technology, News-->
+        <string name="settings_filter_to_key" translatable="false">section</string>
+
+            <!-- Label for filter_to default option [CHAR LIMIT=20] -->
+            <string name="settings_filter_to_label">Set Filter To</string>
+            <string name="settings_filter_to_default" translatable="false">politics</string>
+
+            <!-- Label for filter_to option [CHAR LIMIT=20] -->
+            <string name="settings_filter_to_news_label">News</string>
+            <string name="settings_filter_to_news_value" translatable="false">news</string>
+
+            <!-- Label for filter_to option [CHAR LIMIT=20] -->
+            <string name="settings_filter_to_politics_label">Politics</string>
+            <string name="settings_filter_to_politics_value" translatable="false">politics</string>
+
+            <!-- Label for filter_to option [CHAR LIMIT=20] -->
+            <string name="settings_filter_to_technology_label">Technology</string>
+            <string name="settings_filter_to_technology_value" translatable="false">technology</string>
+
+            <!-- Label for filter_to option [CHAR LIMIT=20] -->
+            <string name="settings_filter_to_no_filter_label">No Filter</string>
+            <string name="settings_filter_to_no_filter_value" translatable="false">No Filter</string>
+
+        <!--Strings for sort_by setting (newest or oldest-->
+        <string name="settings_sort_by_key" translatable="false">order-by</string>
+
+            <!-- Label for sort_by default option [CHAR LIMIT=20] -->
+            <string name="settings_sort_by_label">Sort News By</string>
+            <string name="settings_sort_by_default" translatable="false">newest</string>
+
+            <!-- Label for sort_by option [CHAR LIMIT=20] -->
+            <string name="settings_sort_by_newest_label">Newest</string>
+            <string name="settings_sort_by_newest_value" translatable="false">newest</string>
+
+            <!-- Label for sort_by option [CHAR LIMIT=20] -->
+            <string name="settings_sort_by_oldest_label">Oldest</string>
+            <string name="settings_sort_by_oldest_value" translatable="false">oldest</string>
+
+
+
+
+
+
+</resources>
